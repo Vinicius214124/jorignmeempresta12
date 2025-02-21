@@ -1,0 +1,6 @@
+streamlit
+pymysql
+pandas
+plotly
+folium
+requests
